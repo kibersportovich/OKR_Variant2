@@ -51,6 +51,8 @@ const object = {
 
 console.log(object);
 
+//task 5 
 
+// в index.html и script.js
 
 
