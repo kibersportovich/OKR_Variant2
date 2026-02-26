@@ -42,6 +42,15 @@ const people = {
   
 console.log(getOldestPerson(people)); 
 
+//task 4
+
+const object = {
+    2: ['a', 'b'],
+    3: ["as", "afd", "fs"]
+}
+
+console.log(object);
+
 
 
 
